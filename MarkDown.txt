@@ -12,3 +12,18 @@
 > stay foolish!!
 >> stay foolish!!
 
+■リンク■
+・自動リンクは文字列を「<>」で囲む
+(例)
+<http://google.com>
+
+・インラインリンクは[表示したい文字列](URL)で書く
+(例)
+[Googleのページだよ](http://google.com)
+
+・外部参照リンクは数字を記述し、その数字に参照先を記述する
+(例)
+[Googleのページだよ][1]
+[1]: http://google.com
+
+
