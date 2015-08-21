@@ -25,5 +25,3 @@
 (例)
 [Googleのページだよ][1]
 [1]: http://google.com
-
-
